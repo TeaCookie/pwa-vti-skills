@@ -1,0 +1,12 @@
+{
+  "name": "pwa-vti-skills",
+  "owner": { "name": "TeaCookie", "url": "https://github.com/TeaCookie" },
+  "plugins": [
+    {
+      "name": "pwa-vti-skills",
+      "source": "./",
+      "description": "Workflow skills for taking a repo to an accurate fine-tuned on-device Cactus Needle model, and hosting it in a PWA.",
+      "version": "0.1.0"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "pwa-vti-skills",
+  "version": "0.1.0",
+  "description": "Workflow skills for making a small on-device tool-calling model (Cactus Needle) accurate in a vanilla PWA: tool surface and eval cases, training data, fine-tune/build/evaluate, and running it in a service worker.",
+  "author": { "name": "TeaCookie", "url": "https://github.com/TeaCookie" },
+  "homepage": "https://github.com/TeaCookie/pwa-vti-skills",
+  "repository": "https://github.com/TeaCookie/pwa-vti-skills",
+  "keywords": ["cactus", "needle", "fine-tuning", "tool-calling", "on-device", "wasm", "pwa", "service-worker"]
+}
